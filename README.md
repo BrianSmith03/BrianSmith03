@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Any projects    
 - 📫 How to reach me ... bsmith9348@gmail.com
 - 😄 Pronouns: ... HE/HIM  
-- ⚡ Fun fact: ... I started coding at A young age and stumbled upon TOR Browser and the rest is...
+- ⚡ Fun fact: ... 
 
 <!---
 BrianSmith03/BrianSmith03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
