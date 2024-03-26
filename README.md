@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrianSmith03
-- 👀 I’m interested in ... Programming, Coding, Software Development     
-- 🌱 I’m currently learning ... AI programming     
+- 👀 I’m interested in ...     
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... Any projects    
 - 📫 How to reach me ... bsmith9348@gmail.com
 - 😄 Pronouns: ... HE/HIM  
